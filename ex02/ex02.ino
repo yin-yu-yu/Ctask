@@ -1,4 +1,4 @@
-const int ledPin = 2;
+const int ledPin = 4;
 const unsigned long intervalMs = 500;  // 500ms toggle -> 1Hz blink
 
 unsigned long previousMillis = 0;
